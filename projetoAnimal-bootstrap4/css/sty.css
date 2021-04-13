@@ -1,0 +1,60 @@
+body{
+  background: url(../img/fu.jpg);
+  background-attachment: fixed;
+}
+p{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+  color: #140718;
+}
+.navbar-light .navbar-nav .nav-link{
+  color:#B9B907;
+}
+.divisor{
+  width: 2px;
+  background: white;
+
+}
+#home{
+  background: #C1F3DE;
+  color:black;
+  margin-top: 200px;
+
+  }
+  .navbar-nav > li > a, .navbar-brand {
+      padding-top:2px !important;
+      padding-bottom:30px !important;
+      height: 10px;
+  }
+  .navbar-brand{
+    margin-bottom: 70px;
+
+  }
+ul{
+  font-size: 27px;
+  color:#09098C;
+
+}
+.form-inline{
+  border-radius: 400px;
+  padding-top: 15px;
+  padding-left: 20px;
+}
+.caixa{
+  padding: 60px;
+
+}
+#somo{
+  padding: 110px;
+
+
+}
+
+#ajude{
+  padding: 400px;
+
+}
+#proje{
+  padding:400px;
+}
